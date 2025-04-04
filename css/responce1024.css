@@ -1,0 +1,92 @@
+@media (max-width: 1224px) {
+    .header__img {
+        margin-right: 280px;
+    }
+
+    .header__list {
+        gap: 96px;
+    }
+
+    .header__main {
+        justify-content: space-between;
+    }
+
+    .header__menu {
+        margin-right: 0;
+    }
+
+    .hero__banner {
+        padding: 100px 0 110px 0;
+    }
+
+
+    .gallery__checkbox-list {
+        left: 140px;
+        top: 170px;
+    }
+
+    .gallery__block--content {
+        min-height: 0;
+    }
+
+    .events__list {
+        gap: 27px;
+    }
+
+    .events__information {
+        padding: 14px 34px 49px 34px;
+        gap: 17px;
+    }
+
+    .project__images {
+        gap: 27px;
+    }
+
+    .project__text {
+        margin-bottom: 20px;
+    }
+
+    .person__cards {
+        align-items: start;
+    }
+
+    .person__information__text {
+        max-width: 875px;
+    }
+
+    .second {
+        padding: 80px 0 70px 0;
+    }
+
+    .events__description {
+        text-align: start;
+        margin-bottom: 0px;
+    }
+
+
+    .section-form {
+        padding: 50px 0 35px 0;
+
+    }
+
+    .section-form__button {
+        padding: 12px 45px;
+    }
+
+    .footer__block {
+        padding: 38px 0 50px 0;
+    }
+
+    .project__img {
+        padding: 26px;
+    }
+
+    .project {
+        padding: 80px 0 66px 0;
+    }
+
+    .inp {
+        padding: 9px 87px 9px 24px;
+    }
+
+}

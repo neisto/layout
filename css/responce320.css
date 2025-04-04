@@ -1,0 +1,268 @@
+@media (max-width: 590px) {
+    .footer__block {
+        flex-direction: column-reverse;
+        gap: 62px;
+        align-items: center;
+    }
+
+    .header__img {
+        margin-right: 0;
+    }
+
+    .container {
+        padding: 0 15px;
+    }
+
+    .hero__title {
+        font-size: 32px;
+        line-height: 28px;
+        text-align: center;
+        max-width: 290px;
+        margin-bottom: 10px;
+
+    }
+
+    .hero__text {
+        max-width: 250px;
+        font-size: 11px;
+        line-height: 16px;
+        text-align: center;
+        margin-bottom: 40px;
+
+    }
+
+    .hero__button {
+        padding: 11px 19px;
+        font-size: 12px;
+        line-height: 16px;
+        margin: 0 47px;
+    }
+
+    .hero__banner {
+        padding: 50px 0;
+        text-align: -webkit-center;
+    }
+    .second {
+        padding: 50px 0;
+    }
+
+    .second__text {
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+
+    .gallery__img {
+        min-width: 200px;
+    }
+
+    .gallery {
+        padding: 50px 0;
+    }
+
+
+    .gallery__checkbox-block {
+        width: 100%;
+        height: 200px;
+        padding-top: 65px;
+    }
+
+    .project__images {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+
+    .section-form__button {
+        padding: 12px 35px;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 17px;
+    }
+
+    .button-on {
+        display: none;
+    }
+
+    .button-off {
+        display: block;
+    }
+
+    .pic  {
+        width: 50px;
+        height: 50px;
+    }
+
+    .header__logo {
+        width: 97px;
+        height: 22px;
+        margin-bottom: 10px;
+        margin-right: 25px;
+    }
+
+    .header__links {
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 16px;
+    }
+
+    .header__button-img {
+        width: 16px;
+        height: 16px;
+    }
+
+    .hero__button {
+        padding: 11px 16px;
+    }
+
+    .hero__banner {
+        padding: 45px 0px;
+    }
+
+    .header__main {
+        padding: 17px 0;
+    }
+
+    .header__list {
+        gap: 24px;
+    }
+
+    .gallery__checkbox-block {
+        height: 132px;
+        padding-top: 10px;
+    }
+
+    .gallery {
+        padding: 50px 0 40px 0;
+    }
+
+    .person {
+        padding: 50px 0 55px 0;
+    }
+
+    .person__text {
+        margin-bottom: 25px;
+    }
+
+    .person__portrait {
+        margin-bottom: 20px;
+    }
+
+    .adv {
+        max-width: 165px;
+    }
+
+    .person__cards {
+        gap: 32px;
+    }
+/*
+    .events__information {
+        padding: 9px 20px 80px 20px;
+    } */
+
+    .events__information {
+        gap: 40px;
+        padding: 17px 18px 127px 23px;
+    }
+
+    .events__small-titles {
+        margin-bottom: 7px;
+    }
+
+    .project {
+        padding: 25px 0 0 0;
+    }
+
+    .project__small-titles {
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 32px;
+
+    }
+
+    .project__text {
+        max-width: none;
+        margin-bottom: 48px;
+    }
+
+    .partners__img {
+        width: 290px;
+        padding: 30px 65px;
+    }
+
+    .project__small-titles {
+        margin-bottom: 10px;
+    }
+
+    .section-form {
+        padding: 35px 0 50px 0;
+    }
+
+    .section-form__text {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 19px;
+    }
+
+    .section-form__form {
+        gap: 18px;
+    }
+
+    .section-form__title {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+        margin-bottom: 0;
+    }
+
+    .inp {
+        width: 100%;
+        height: 40px;
+        padding: 4px 80px 4px 24px;
+    }
+
+    .inp:first-child {
+      margin-right: 0px;
+    }
+
+    .social-ico {
+        width: 50px;
+        height: 50px;
+    }
+
+    .footer__block {
+        padding: 20px 0 50px 0;
+    }
+
+    .footer__logo {
+        max-width: 98px;
+    }
+
+    .footer__block {
+        gap: 15px;
+    }
+
+    .discription-block {
+        margin-bottom: 10px;
+    }
+
+    .section-form {
+        padding: 36px 0 50px 0;
+    }
+
+    .section-form__form {
+        gap: 20px;
+        margin-bottom: 0;
+    }
+
+    .section-form__main-block {
+        gap: 20px;
+    }
+
+
+
+}
